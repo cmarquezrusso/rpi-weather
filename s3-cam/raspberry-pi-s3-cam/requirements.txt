@@ -23,4 +23,4 @@ SecretStorage==2.3.1
 six==1.10.0
 supervisor==3.3.1
 tinys3==0.1.12
-urllib3==1.22
+urllib3==1.26.5
